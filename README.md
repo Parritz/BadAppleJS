@@ -6,7 +6,7 @@ Install the dependencies
 npm i
 ```
 
-Run this to start it.
+Run this to start it
 ```
 node index.js
 ```
